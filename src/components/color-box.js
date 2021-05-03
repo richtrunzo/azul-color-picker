@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import "./colorbox.css";
+import "../css/colorbox.css";
 import {CopyToClipboard} from 'react-copy-to-clipboard';
 
 function ColorBox(props) {

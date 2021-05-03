@@ -1,6 +1,6 @@
 import React from 'react';
-import Palette from './pallette'
-import colors from './startColors'
+import Palette from './components/pallette'
+import colors from './components/startColors'
 import generatePalette from './lib/color-helpers'
 
 function App() {
